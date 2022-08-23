@@ -1,9 +1,5 @@
 - 🔭 Atualmente trabalho com PL/Sql e front-end
 - 🌱 Estudando HTML, Css e JS
-
-- 📫 How to reach me: ...
-- 😄 Pronome: Ele/Dele
-
 - ⚡ Fato curioso, eu também sou psicólogo nas horas vagas.
 
  <div align="center">
